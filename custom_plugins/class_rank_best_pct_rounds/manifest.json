@@ -1,13 +1,14 @@
 {
+    "domain": "class_rank_best_pct_rounds",
     "name": "Class Rank: Best Percentage",
     "author": "Michael Niggel",
     "author_uri": "https://hazardcreative.com",
+    "category": ["Class Rankings"],
     "description": "Adds a \"Best Percentage of Rounds\" class ranking method",
+    "documentation_uri": "https://github.com/HazardCreative/RotorHazard-Class-Rank-Best-Percentage",
     "info_uri": "https://github.com/HazardCreative/RotorHazard-Class-Rank-Best-Percentage",
     "license": "RotorHazard",
     "license_uri": "https://github.com/RotorHazard/RotorHazard/blob/main/LICENSE",
-    "version": "1.0.1",
-    "required_rhapi_version": "1.0",
-    "update_uri": null,
-    "text_domain": null
+    "version": "1.1.0",
+    "required_rhapi_version": "1.0"
 }
